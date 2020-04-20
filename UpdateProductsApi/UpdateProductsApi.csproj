@@ -11,6 +11,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataAccessEntities\DataAccessEntities.csproj" />
+    <ProjectReference Include="..\NotificationService\NotificationService.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">
